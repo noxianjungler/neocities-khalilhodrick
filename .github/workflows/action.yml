@@ -7,7 +7,7 @@ inputs:
   api_token:  9f8873418b3224d9fd93ca9c794a4078
     description: 'Neocities API token for site to deploy to'
     required: true
-  dist_dir:
+  dist_dir:  "C:\Users\Khalil\Documents\Adobe\Dreamweaver\neocities-khalilhodrick"
     description: 'Local folder to deploy to neocities'
     default: 'public'
     required: true
