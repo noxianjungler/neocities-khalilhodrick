@@ -6784,3 +6784,16 @@ button.close {
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
+
+.content-container
+{
+	padding-top: 30px;
+	padding-bottom: 30px;
+	color: inherit;
+	background-color: #eee;
+	border-style: solid;
+	border-radius: 2px;
+	margin: 25px 50px 75px;
+	
+
+}
