@@ -6787,13 +6787,13 @@ button.close {
 
 .content-container
 {
-	padding-top: 30px;
+	/*padding-top: 5px;*/
 	padding-bottom: 30px;
 	color: inherit;
 	background-color: #eee;
 	border-style: solid;
 	border-radius: 2px;
-	margin: 25px 50px 75px;
+	margin: 5px 50px 75px;
 	
 
 }
